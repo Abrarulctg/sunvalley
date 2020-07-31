@@ -4,7 +4,7 @@ body{
 
 /* Header SEction background image */
 .header{
-    background-image: url(/images/banner.png);
+    background-image: url(/image/banner.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
